@@ -1,4 +1,4 @@
 def power(a, b):
-  res = a ** b + 5
+  res = a ** b 
   return res
   
